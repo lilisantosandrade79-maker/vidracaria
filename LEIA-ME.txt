@@ -1,0 +1,10 @@
+APP INSTALÁVEL — VIDRAÇARIA ENTRE-IJUÍS
+
+Publique todos os arquivos desta pasta juntos em um endereço HTTPS (por exemplo, GitHub Pages). Não abra index.html diretamente da pasta para instalar: navegadores só habilitam a instalação e o modo offline no endereço HTTPS.
+
+No celular Android: abra o endereço no Chrome > menu ⋮ > Instalar app ou Adicionar à tela inicial.
+No notebook: abra o mesmo endereço no Chrome/Edge > ícone de instalação na barra de endereço (ou menu > Instalar aplicativo).
+
+Depois de abrir uma vez com internet, a interface pode abrir offline. Sincronização entre aparelhos e serviços externos precisam de conexão; os dados locais de cada aparelho permanecem no armazenamento daquele navegador e NÃO se sincronizam automaticamente sem a configuração correta do servidor. A instalação não é um arquivo APK; gerar APK requer compilar um projeto Android.
+
+Esta pasta contém uma cópia do arquivo mestre com apenas os metadados de instalação adicionados; o arquivo mestre original permanece intacto.
